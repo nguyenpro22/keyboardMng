@@ -1,0 +1,25 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Feb 15, 2023, 8:48:56 PM
+    Author     : Dung
+*/
+*{
+    font-family: Comic Sans, Comic Sans MS, cursive;
+}
+body{
+    background-color: #1A293E;
+}
+section{
+    background-color: #0C1012;
+}
+.card-body{
+    background-color: #192123;
+}
+.btn:hover{
+    background-color: #98E028;
+}
+
+
